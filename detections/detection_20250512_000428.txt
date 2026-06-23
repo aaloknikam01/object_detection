@@ -1,0 +1,4 @@
+Time: 20250512_000428
+Objects detected: cat (0.57)
+Faces detected: 1
+FPS: 3.59

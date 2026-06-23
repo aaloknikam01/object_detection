@@ -1,0 +1,4 @@
+Time: 20250512_001638
+Objects detected: 
+Faces detected: 1
+FPS: 4.30

@@ -1,0 +1,4 @@
+Time: 20250512_001407
+Objects detected: dog (0.58)
+Faces detected: 1
+FPS: 3.44

@@ -1,0 +1,4 @@
+Time: 20250511_235857
+Objects detected: person (0.61), chair (0.59)
+Faces detected: 0
+FPS: 4.54

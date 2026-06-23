@@ -1,0 +1,4 @@
+Time: 20250513_001353
+Objects detected: person (0.63), suitcase (0.56)
+Faces detected: 0
+FPS: 4.10

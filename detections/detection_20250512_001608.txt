@@ -1,0 +1,4 @@
+Time: 20250512_001608
+Objects detected: remote (0.65)
+Faces detected: 2
+FPS: 3.91

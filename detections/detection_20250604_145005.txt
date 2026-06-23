@@ -1,0 +1,4 @@
+Time: 20250604_145005
+Objects detected: cell phone (0.60)
+Faces detected: 0
+FPS: 3.43
